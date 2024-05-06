@@ -1,4 +1,4 @@
-# REP (Renewable Energy Platform)
+# REPS Renewable Energy System
 
 ## Authors
 
