@@ -1,7 +1,7 @@
-REPS Renewable Energy System
+# REP (Renewable Energy Platform)
 
-Author:
-Group 15	
-Chunxiao Ren	
-Xiaoyu Du	
-Yizhou Wang
+## Authors
+
+- Chunxiao Ren
+- Xiaoyu Du
+- Yizhou Wang
